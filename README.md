@@ -1,4 +1,3 @@
-# Whack-Hack-Booleans.github.io
 
 # Track: Social Awareness
 
@@ -15,8 +14,4 @@
   the user can access all the information regarding any government schemes and services with access
   to the vast variety of government services at a single platform.
 
-# Team Members:
-  1. [Vaishnavi Vaishnav](https://github.com/vaish27072001)
-  2. [Kushagra Gupta](https://github.com/Guptakg2620)
-  3. [Piyush Lakheda](https://github.com/piyushlakheda)
  
